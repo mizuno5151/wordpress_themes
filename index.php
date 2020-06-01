@@ -45,6 +45,7 @@
   </header>
   <main role="main">
     <!-- Page content -->
+    ここが本体になる
   </main>
 
   <!-- ドロワーメニューの利用宣言 -->
